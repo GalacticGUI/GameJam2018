@@ -30,7 +30,7 @@ The Team Members:
         Jonathan Sock
         
     Programming:
-        Mathieu LeBlanc / GalacticGUI
+        Mathieu LeBlanc = GalacticGUI
         
     ???:
         Charlie Dearborn
