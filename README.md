@@ -1,4 +1,4 @@
-# GameJam2018
+# Jalloo2018GameJam
 Jalloo 2018 Game Jam
 
 This was a 24 hour Game Jam held at the NBCC campus in Miramichi, New Brunswick as part of the Jalloo Festival of Games and Animation on June 16-17, 2018.
