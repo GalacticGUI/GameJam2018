@@ -7,13 +7,15 @@ The theme for this Game Jam was 'how do you take a classic and ruin it'.
 
 Our team consisted of 5 Visual Artists, 1 Sound Artist and 1 Programmer.
 
-We chose to go with the Legend of Zelda and add paywalls to much of the content as inspired by EA's loot box debacle on Battlefront II.
+We chose to go with the Legend of Zelda and add paywalls to much of the content as inspired by EA's loot box debacle on Battlefront II and of course, change the protagonist to Charlie instead of Link.
 
 This repository is the culmination of our combined work, which, while incomplete from our envisioned plan is still content/feature rich for only having been developed for 24 hours.
 
 Game Engine Used: Unity 2018.1.0f2
 
 Platform: PC/Mac/Linux > only PC built and tested
+
+Controls: 'W, A, S, D' for movement, 'Space' to attack, 'Esc' to exit Payment Pop-Ups and 'Backspace' to exit the application while in Play mode.
 
 The Team Name: Devolve Studios
 
